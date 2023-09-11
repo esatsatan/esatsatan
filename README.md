@@ -1,5 +1,6 @@
 # 💻  About Me:
-<br>🤝 I’m looking for help with write clean code using architecture patterns<br>🌱 I’m currently learning build apps using such as Mvvm, Jetpack Compose, Room library, Retrofit, Dependency Injection, Coroutines, Flow and other android Libraries.<br>💬 Ask me about kotlin, android apps
+<br>🤝 I’m looking for help with write clean code using architecture patterns<br>🌱 I’m currently learning build apps using such as Mvvm, Jetpack Compose, Room library, Retrofit, Dependency Injection, Coroutines, Flow and other android Libraries.<br>💬 Ask me about kotlin, android apps.
+Also I started to work python with python technologies.
 
 
 ## 🌐 Socials:
